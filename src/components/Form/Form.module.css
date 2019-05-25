@@ -1,0 +1,20 @@
+.Form {
+  margin: 0 auto;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.Form input[type="text"] {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding-left: 5px;
+  box-sizing: border-box;
+}
+
+.submit {
+  max-width: 80px;
+  margin-left: auto;
+}
